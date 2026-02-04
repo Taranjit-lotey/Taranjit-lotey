@@ -60,9 +60,3 @@ Production-grade ETL pipeline extracting and processing web-scale text data from
 **Key Skills:**  
 `Dimensional Modeling` `Star/Snowflake Schema` `ETL/ELT Design` `SCD Type 1/2` `Data Lineage` `Data Quality & Governance` `IAM & Security` `Idempotent Pipelines`
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=taranjit-lotey&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=taranjit-lotey&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=taranjit-lotey&icon=0&color=0)](https://visitcount.itsvg.in)
