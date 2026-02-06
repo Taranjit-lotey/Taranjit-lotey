@@ -15,6 +15,11 @@ On the technical side, I'm comfortable owning systems end-to-end: ingestion, tra
 
 ## 🚀 Featured Projects
 
+### [Real-Time Customer Streaming Analytics](link-to-repo)
+Lambda Architecture streaming platform processing 2M+ simulated audio events daily. Kinesis Data Streams with Lambda triggers maintain real-time user session state in DynamoDB, while Kinesis Firehose delivers parquet files to S3 for batch analytics. Single-table DynamoDB schema with optimized partition keys feeds Glue ETL normalizing raw events into Redshift for historical listening pattern analysis.
+
+**Tech:** AWS Kinesis, Lambda, DynamoDB, S3, Glue, Redshift, Python, SQL
+
 ### [Esports Analytics Mart](link-to-repo)
 Serverless analytics platform on AWS processing 2M+ daily esports match events with Lambda, Step Functions, and Redshift. Implements SCD Type 2 dimensional modeling to track 50K+ player roster changes for historical performance analysis.
 
