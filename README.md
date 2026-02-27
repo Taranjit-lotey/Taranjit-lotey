@@ -8,7 +8,7 @@ On the technical side, I'm comfortable owning systems end-to-end: ingestion, tra
 ## 📈 Impact at a Glance
 - 🏗️ Built **50+ production data pipelines** processing all kinds of structure/unstructured data for diverse business group
 - ⚡ Improved campaign targeting accuracy by **10%** through near real-time streaming architecture
-- 📊 Architected unified DataMart integrating **7 different data sources** into analytics-ready datasets with dimensional modeling
+- 📊 Architected unified DataMart integrating **10 different data sources** into analytics-ready datasets with dimensional modeling
 - 🔧 Optimized data models reducing table skew to **<30%** for improved query performance
 - 📝 Established data lineage and metadata management practices for governance compliance
 - 🎯 Designed star schema and dimensional models supporting BI dashboards for order fulfillment programs
