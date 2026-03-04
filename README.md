@@ -6,7 +6,7 @@ I'm a Data Engineer who believes good data work starts with understanding the pr
 On the technical side, I'm comfortable owning systems end-to-end: ingestion, transformation, orchestration, monitoring, and the inevitable 2am incident. On the non-technical side, I know how to translate between engineers and stakeholders who just want their dashboard to work. I build side projects not because I have to, but because I'm genuinely curious about how things work under the hood. I thrive with ownership and autonomy, but I also value teams where people teach each other, ask dumb questions, and leave things better than they found them. Figuring things out is the part I enjoy most.
 
 ## 📈 Impact at a Glance
-- 🏗️ Built **50+ production data pipelines** processing all kinds of structure/unstructured data for diverse business group
+- 🏗️ Built **10s of production data pipelines** processing all kinds of structure/unstructured data for diverse business group
 - ⚡ Improved campaign targeting accuracy by **10%** through near real-time streaming architecture
 - 📊 Architected unified DataMart integrating **10 different data sources** into analytics-ready datasets with dimensional modeling
 - 🔧 Optimized data models reducing table skew to **<30%** for improved query performance
