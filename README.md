@@ -30,11 +30,6 @@ Live weather monitoring system streaming data through Azure Event Hub into Micro
 
 **Tech:** Azure Databricks, Azure Functions, Event Hub, Kusto DB, Power BI
 
-### [CommonCrawl Text Extraction Pipeline](link-to-repo)
-Production-grade ETL pipeline extracting and processing web-scale text data from CommonCrawl archives for ML training datasets.
-
-**Tech:** Apache Spark, Python, Distributed Computing
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taranjit-lotey)
 
